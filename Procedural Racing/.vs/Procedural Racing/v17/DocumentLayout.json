@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Procedural Racing\\Procedural Racing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C98D675-D75D-9D20-E275-0A681436A597}|Assembly-CSharp.csproj|d:\\procedural racing\\procedural racing\\assets\\procedural racing\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C98D675-D75D-9D20-E275-0A681436A597}|Assembly-CSharp.csproj|solutionrelative:assets\\procedural racing\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C98D675-D75D-9D20-E275-0A681436A597}|Assembly-CSharp.csproj|D:\\Procedural Racing\\Procedural Racing\\assets\\ad\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C98D675-D75D-9D20-E275-0A681436A597}|Assembly-CSharp.csproj|solutionrelative:assets\\ad\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C98D675-D75D-9D20-E275-0A681436A597}|Assembly-CSharp.csproj|D:\\Procedural Racing\\Procedural Racing\\assets\\procedural racing\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C98D675-D75D-9D20-E275-0A681436A597}|Assembly-CSharp.csproj|solutionrelative:assets\\procedural racing\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C98D675-D75D-9D20-E275-0A681436A597}|Assembly-CSharp.csproj|D:\\Procedural Racing\\Procedural Racing\\assets\\procedural racing\\scripts\\cargameovertrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C98D675-D75D-9D20-E275-0A681436A597}|Assembly-CSharp.csproj|solutionrelative:assets\\procedural racing\\scripts\\cargameovertrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C98D675-D75D-9D20-E275-0A681436A597}|Assembly-CSharp.csproj|D:\\Procedural Racing\\Procedural Racing\\assets\\procedural racing\\scripts\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C98D675-D75D-9D20-E275-0A681436A597}|Assembly-CSharp.csproj|solutionrelative:assets\\procedural racing\\scripts\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C98D675-D75D-9D20-E275-0A681436A597}|Assembly-CSharp.csproj|D:\\Procedural Racing\\Procedural Racing\\assets\\ad\\countdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C98D675-D75D-9D20-E275-0A681436A597}|Assembly-CSharp.csproj|solutionrelative:assets\\ad\\countdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C98D675-D75D-9D20-E275-0A681436A597}|Assembly-CSharp.csproj|D:\\Procedural Racing\\Procedural Racing\\assets\\procedural racing\\scripts\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C98D675-D75D-9D20-E275-0A681436A597}|Assembly-CSharp.csproj|solutionrelative:assets\\procedural racing\\scripts\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\Procedural Racing\\Procedural Racing\\Assets\\Procedural Racing\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Procedural Racing\\Scripts\\MainMenu.cs",
+              "ToolTip": "D:\\Procedural Racing\\Procedural Racing\\Assets\\Procedural Racing\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Procedural Racing\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T08:16:52.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ad.cs",
+              "DocumentMoniker": "D:\\Procedural Racing\\Procedural Racing\\Assets\\Ad\\Ad.cs",
+              "RelativeDocumentMoniker": "Assets\\Ad\\Ad.cs",
+              "ToolTip": "D:\\Procedural Racing\\Procedural Racing\\Assets\\Ad\\Ad.cs",
+              "RelativeToolTip": "Assets\\Ad\\Ad.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:51:51.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountDown.cs",
+              "DocumentMoniker": "D:\\Procedural Racing\\Procedural Racing\\Assets\\Ad\\CountDown.cs",
+              "RelativeDocumentMoniker": "Assets\\Ad\\CountDown.cs",
+              "ToolTip": "D:\\Procedural Racing\\Procedural Racing\\Assets\\Ad\\CountDown.cs",
+              "RelativeToolTip": "Assets\\Ad\\CountDown.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA0wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:48:38.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Procedural Racing\\Procedural Racing\\Assets\\Procedural Racing\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Procedural Racing\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\Procedural Racing\\Procedural Racing\\Assets\\Procedural Racing\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Procedural Racing\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAvwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:49:18.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Obstacle.cs",
+              "DocumentMoniker": "D:\\Procedural Racing\\Procedural Racing\\Assets\\Procedural Racing\\Scripts\\Obstacle.cs",
+              "RelativeDocumentMoniker": "Assets\\Procedural Racing\\Scripts\\Obstacle.cs",
+              "ToolTip": "D:\\Procedural Racing\\Procedural Racing\\Assets\\Procedural Racing\\Scripts\\Obstacle.cs",
+              "RelativeToolTip": "Assets\\Procedural Racing\\Scripts\\Obstacle.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:54:02.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarGameOverTrigger.cs",
+              "DocumentMoniker": "D:\\Procedural Racing\\Procedural Racing\\Assets\\Procedural Racing\\Scripts\\CarGameOverTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Procedural Racing\\Scripts\\CarGameOverTrigger.cs",
+              "ToolTip": "D:\\Procedural Racing\\Procedural Racing\\Assets\\Procedural Racing\\Scripts\\CarGameOverTrigger.cs",
+              "RelativeToolTip": "Assets\\Procedural Racing\\Scripts\\CarGameOverTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:48:36.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Procedural Racing\\Procedural Racing\\Assets\\Procedural Racing\\Scripts\\Car.cs",
+              "RelativeDocumentMoniker": "Assets\\Procedural Racing\\Scripts\\Car.cs",
+              "ToolTip": "D:\\Procedural Racing\\Procedural Racing\\Assets\\Procedural Racing\\Scripts\\Car.cs",
+              "RelativeToolTip": "Assets\\Procedural Racing\\Scripts\\Car.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAhwJoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:45:53.591Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
